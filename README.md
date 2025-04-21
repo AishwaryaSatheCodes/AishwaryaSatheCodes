@@ -1,5 +1,5 @@
-# Hi! I'm Aishwarya, a passionate full-stack developer. I enjoy learning new technologies and solving real-world problems. 
-
+# print("Hi! Glad you're here. Let's build something cool!")
+I'm Aishwarya, a passionate full-stack developer. I enjoy learning new technologies and solving real-world problems. 
 - ⚒️ I’m currently working on TalentTrack - Project Insights.
 - 📜 I’m currently getting my Masters Degree in Computer Applications.
 - ♀️ Pronouns: She/Her

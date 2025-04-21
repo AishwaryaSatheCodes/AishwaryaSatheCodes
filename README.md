@@ -1,6 +1,6 @@
 # Hey :)
 I'm Aishwarya.
-- 🔭 I’m currently working on TalentTrack - Project Progress Visualiser.
+- 🔭 I’m currently working on TalentTrack - Project Insights.
 - 🌱 I’m currently getting my Masters Degree in Computer Applications.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm super interested in Foreign Languages! I'm currently learning German and Japanese.

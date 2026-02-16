@@ -1,9 +1,13 @@
-# print("Hi! Glad you're here. Let's build something cool!")
-I'm Aishwarya, a passionate full-stack developer. I enjoy learning new technologies and solving real-world problems. 
-- ⚒️ I’m currently working on TalentTrack - Project Insights.
-- 📜 I’m currently getting my Masters Degree in Computer Applications.
-- ♀️ Pronouns: She/Her
-- 🌠 Fun fact: I'm super interested in Foreign Languages! I'm currently learning German and Japanese.
+echo "Hi, I'm Aishwarya!";
+
+A PHP Developer based in Pune, Maharashtra, passionate about building efficient web applications and solving real world problems through clean and thoughtful code.
+
+Experienced in developing and maintaining scalable backend systems using PHP, Laravel, and MySQL.
+Hands on work with Yii2, secure database interactions, and MVC architecture in real production environments.
+I enjoy turning complex requirements into simple, reliable solutions that actually make life easier!
+
+
+Always learning, always improving, and always excited to build something meaningful.
 <!--
 **AishwaryaSatheCodes/AishwaryaSatheCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
